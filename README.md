@@ -2,7 +2,8 @@
 
 A [Green Button Data](http://services.greenbuttondata.org/) Parser written in Ruby.
 
-[![Code Climate](https://codeclimate.com/github/doomspork/greenbutton.png)](https://codeclimate.com/github/doomspork/greenbutton)
+[![Gem Version](https://badge.fury.io/rb/greenbutton.png)](https://rubygems.org/gems/greenbutton) [![Build Status](https://travis-ci.org/doomspork/greenbutton.svg?branch=master)](https://travis-ci.org/doomspork/greenbutton) [![Code Climate](https://codeclimate.com/github/doomspork/greenbutton/badges/gpa.svg)](https://codeclimate.com/github/doomspork/greenbutton) [![Coverage Status](https://coveralls.io/repos/doomspork/greenbutton/badge.png?branch=master)](https://coveralls.io/r/doomspork/greenbutton?branch=master) [![Dependency Status](https://gemnasium.com/doomspork/greenbutton.svg)](https://gemnasium.com/doomspork/greenbutton)
+
 
 ## About Green Button
 
